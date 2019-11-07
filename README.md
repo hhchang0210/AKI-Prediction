@@ -2,7 +2,7 @@
 A Deep Learning Method for AKI Prediction on MIMIC-III and eICU database
 
 ## Data Access
-The propsed models were tested on [MIMIC-III database](https://mimic.physionet.org/) and [eICU database](https://eicu-crd.mit.edu/). This study uses blood gas features and fundamental demographics to make the input vector. The data sets used for the proposed models can be found in `data` folder.
+The propsed models were tested on [MIMIC-III database](https://mimic.physionet.org/) and [eICU database](https://eicu-crd.mit.edu/). This study uses blood gas features and fundamental demographics to make the input vector. The data sets used for the proposed models can be found in [data](https://github.com/Sophiaaaaaa/AKI-Prediction/tree/master/data) folder.
 
 ## How to run these model?
 ```
